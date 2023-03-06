@@ -1,0 +1,54 @@
+pilha = []
+
+pilha.append(1)
+pilha.append(2)
+pilha.append(3)
+pilha.append(4)
+pilha.append(5)
+pilha.append(6)
+pilha.append(7)
+pilha.append(8)
+pilha.append(9)
+pilha.append(10)
+
+print("Pilha atual: ", pilha)
+
+item_removido = pilha.pop()
+print("item removido: ", item_removido)
+print("pilha atualizada: ", pilha)
+
+item_removido = pilha.pop()
+print("item removido: ", item_removido)
+print("pilha atualizada: ", pilha)
+
+item_removido = pilha.pop()
+print("item removido: ", item_removido)
+print("pilha atualizada: ", pilha)
+
+item_removido = pilha.pop()
+print("item removido: ", item_removido)
+print("pilha atualizada: ", pilha)
+
+item_removido = pilha.pop()
+print("item removido: ", item_removido)
+print("pilha atualizada: ", pilha)
+
+item_removido = pilha.pop()
+print("item removido: ", item_removido)
+print("pilha atualizada: ", pilha)
+
+item_removido = pilha.pop()
+print("item removido: ", item_removido)
+print("pilha atualizada: ", pilha)
+
+item_removido = pilha.pop()
+print("item removido: ", item_removido)
+print("pilha atualizada: ", pilha)
+
+item_removido = pilha.pop()
+print("item removido: ", item_removido)
+print("pilha atualizada: ", pilha)
+
+item_removido = pilha.pop()
+print("item removido: ", item_removido)
+print("pilha atualizada: ", pilha)
